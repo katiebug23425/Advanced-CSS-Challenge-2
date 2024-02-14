@@ -42,3 +42,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+.code-lover img {
+max-height: 300px;
+width: 100%;
+}
