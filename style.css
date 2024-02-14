@@ -48,11 +48,18 @@ width: 100%;
 }
 /*main styling*/
 .information {
+width: 75%;
 display:inline-block;
 text-indent: 2%;
+float: right;
 
+/*paragraph styling*/
 }
 p {
     font-size: 18px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/*aside styling*/
+.about-me {
+
 }
