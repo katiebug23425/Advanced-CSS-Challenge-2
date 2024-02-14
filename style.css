@@ -63,7 +63,7 @@ p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 /*aside styling*/
-.about-me, .work {
+.about-me, .work, .contact-me {
     width: 25%;
     display: block;
     font-size: 30px;
