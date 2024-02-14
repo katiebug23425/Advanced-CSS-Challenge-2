@@ -46,6 +46,7 @@ a {
 max-height: 300px;
 width: 100%;
 }
+
 /*main styling*/
 .information {
 width: 75%;
@@ -53,14 +54,24 @@ display:inline-block;
 text-indent: 2%;
 float: right;
 margin-right: 15px;
+}
 
 /*paragraph styling*/
-}
+
 p {
     font-size: 18px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 /*aside styling*/
-.about-me {
-
+.about-me, .work {
+    width: 25%;
+    display: block;
+    font-size: 30px;
+    margin-left: 75px;
+}
+.showcase img {
+    max-height: 500px;
+    width: 50%;
+    margin-top: 50px;
+    float: right;
 }
