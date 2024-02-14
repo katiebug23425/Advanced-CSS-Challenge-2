@@ -46,3 +46,13 @@ a {
 max-height: 300px;
 width: 100%;
 }
+/*main styling*/
+.information {
+display:inline-block;
+text-indent: 2%;
+
+}
+p {
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
