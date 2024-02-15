@@ -53,7 +53,7 @@ p {
     font-size: 18px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
+/*main styling*/
 .flex {
     display: flex;
     flex-wrap: wrap;
@@ -70,6 +70,7 @@ p {
     display: inline-block;
     width: 100%;
 }
+/*footer styling*/
 .footer {
    padding: 30px;
    clear: both;
