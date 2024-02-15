@@ -79,11 +79,13 @@ p {
 .study-guide img {
     display: inline-block;
     width: 40%;
+    float: right;
 }
 
 .about-me {
     margin-top: 25px;
 }
+
 /*footer styling*/
 .footer {
    padding: 30px;
