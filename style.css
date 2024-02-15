@@ -47,39 +47,28 @@ max-height: 300px;
 width: 100%;
 }
 
-/*main styling*/
-.information {
-width: 75%;
-display: flex;
-flex-wrap: wrap;
-text-indent: 2%;
-float: right;
-margin-right: 15px;
-}
-
 /*paragraph styling*/
 
 p {
     font-size: 18px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-/*aside styling*/
-.about-me, .work, .contact-me {
-    width: 25%;
+
+.flex {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: row;
-    font-size: 30px;
-    margin-left: 20px;
-    }
-.about-me {
+    justify-content: space-around;
+}
+.flex h2 {
+    max-width: 25%;
+}
+.flex div {
+    max-width: 75%;
 }
 
-.showcase img {
-    max-height: 500px;
-    width: 50%;
-    margin-top: 50px;
-    float: right;
+.flex div img {
+    display: inline-block;
+    width: 100%;
 }
 .footer {
    padding: 30px;
