@@ -10,7 +10,7 @@ By building and styling it in such a manner as to show how I can create a page f
 Click on the corresponding links to view my applications and/or use my contact information to contact me
 
 ## Screenshot of application:
-![screenshot for links to more information]()
+![screenshot for links to more information](./Images/screenshot%20of%20challenge%202.png)
 
 ## Link to finished application:
 
