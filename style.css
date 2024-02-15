@@ -44,7 +44,11 @@ a {
 }
 .code-lover img {
 max-height: 300px;
-width: 100%;
+width: 65%;
+}
+.code-lover div img {
+max-height: 300px;
+width: 20%;
 }
 
 /*paragraph styling*/
@@ -52,6 +56,8 @@ width: 100%;
 p {
     font-size: 18px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 25px;
+    margin-bottom: 20px;
 }
 /*main styling*/
 .flex {
@@ -69,6 +75,14 @@ p {
 .flex div img {
     display: inline-block;
     width: 100%;
+}
+.study-guide img {
+    display: inline-block;
+    width: 40%;
+}
+
+.about-me {
+    margin-top: 25px;
 }
 /*footer styling*/
 .footer {
