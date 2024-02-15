@@ -50,7 +50,8 @@ width: 100%;
 /*main styling*/
 .information {
 width: 75%;
-display:inline-block;
+display: flex;
+flex-wrap: wrap;
 text-indent: 2%;
 float: right;
 margin-right: 15px;
@@ -65,10 +66,15 @@ p {
 /*aside styling*/
 .about-me, .work, .contact-me {
     width: 25%;
-    display: block;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
     font-size: 30px;
-    margin-left: 75px;
+    margin-left: 20px;
+    }
+.about-me {
 }
+
 .showcase img {
     max-height: 500px;
     width: 50%;
