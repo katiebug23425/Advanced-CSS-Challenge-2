@@ -17,4 +17,6 @@ https://katiebug23425.github.io/Advanced-CSS-Challenge-2/
 
 ## Credits
 Photo by <a href="https://unsplash.com/@synkevych?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Roman Synkevych</a> on <a href="https://unsplash.com/photos/black-android-smartphone-vXInUOv1n84?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Code debugged and assisted by Tutor Charles Puente-Matos on 2/15/24
   
